@@ -1,4 +1,4 @@
-baseURL = 'https://pedrocoelhopais.github.io/website/''
+baseURL = 'https://pedrocoelhopais.github.io/website/'
 languageCode = 'en-us'
 title = "Rabbit's Den"
 theme = "smol"
