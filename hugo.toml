@@ -1,11 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Rabbit's Den"
 theme = "smol"
 
 # Parameters
 [params]
-    subtitle = "Your blog subtitle goes here!"
+    subtitle = "A website from Pedro Coelho Pais"
     dateFmt = "02.01.2006 15:04"
 
 # Header
@@ -29,17 +29,17 @@ theme = "smol"
         weight = 3
 
 # Footer
-  [[menu.footer]]
+    [[menu.footer]]
         name = "Github"
-        url = "https://github.com/example"
+        url = "https://github.com/pedrocoelhopais"
         weight = 1 
 
     [[menu.footer]]
-        name = "Mastodon"
-        url = "https://example.com/@user"
+        name = "Linked In"
+        url = "https://www.linkedin.com/in/its-pedro-baybeh/"
         weight = 2 
 
     [[menu.footer]]
-        name = "Imprint"
-        url = "/imprint"
+        name = "Chess"
+        url = "https://www.chess.com/member/ph_nes"
         weight = 3
